@@ -8,3 +8,4 @@ it's a good start to setup your multiplatform project
 
 ## 🔗 Link
 - [Wizard for KMM project](https://terrakok.github.io/kmp-web-wizard/)
+- [Compose Multiplatform Wizard](https://terrakok.github.io/Compose-Multiplatform-Wizard/)
