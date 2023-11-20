@@ -6,5 +6,5 @@ set of useful links for Kotlin multiplatform
 it's a good start to setup your multiplatform project
 
 
-## Link
+## 🔗 Link
 - [Wizard for KMM project](https://terrakok.github.io/kmp-web-wizard/)
