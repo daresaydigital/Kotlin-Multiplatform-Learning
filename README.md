@@ -5,6 +5,8 @@ set of useful links for Kotlin multiplatform
 - [Jetbrain - Kotlin multiplatform](https://www.jetbrains.com/help/kotlin-multiplatform-dev/multiplatform-getting-started.html)
 it's a good start to setup your multiplatform project
 
+## 🎥 Video
+- [3H Tutorial by Philipp Lackner, covering almost everything](https://www.youtube.com/watch?v=XWSzbMnpAgI)
 
 ## 🔗 Link
 - [Wizard for KMM project](https://terrakok.github.io/kmp-web-wizard/)
