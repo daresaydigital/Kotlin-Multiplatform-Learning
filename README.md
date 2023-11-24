@@ -23,4 +23,4 @@ In this webinar, delve into KMP's functionality, its flexible project applicatio
 
 - [Confetti 🎊](https://github.com/joreilly/Confetti)
 KMP GraphQL based conference sample with Jetpack Compose Android, Compose for Wear and SwiftUI iOS clients along with GraphQL backend.
-- [jetbrains Sample Porjects](https://www.jetbrains.com/help/kotlin-multiplatform-dev/multiplatform-samples.html)
+- [Jetbrains Sample Porjects](https://www.jetbrains.com/help/kotlin-multiplatform-dev/multiplatform-samples.html)
